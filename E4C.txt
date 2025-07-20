@@ -2,6 +2,6 @@
 <item>
   <version>3.1.1.0</version>
   <url>https://github.com/EddieMac74/AllSideCratingSetup/releases/download/v3.1.1.0/AllSidesCrating.exe</url>
-  <args>/VERYSILENT</args>
+  <args>/SILENT</args>
   <mandatory>false</mandatory>
 </item>
