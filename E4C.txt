@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>3.0.0.0</version>
-  <url>https://github.com/EddieMac74/AllSideCratingSetup/releases/download/v3.0.0.0/AllSidesCrating.exe</url>
+  <version>3.0.0.2</version>
+  <url>https://github.com/EddieMac74/AllSideCratingSetup/releases/download/v3.0.0.2/AllSidesCrating.exe</url>
   <args>/VERYSILENT /NORESTART</args>
   <mandatory>false</mandatory>
 </item>
