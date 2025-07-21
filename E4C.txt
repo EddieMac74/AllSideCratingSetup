@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>3.2.0.0</version>
-  <url>https://github.com/EddieMac74/AllSideCratingSetup/releases/download/v3.2.0.0/AllSidesCrating.exe</url>  
+  <url>https://github.com/EddieMac74/AllSideCratingSetup/releases/download/v3.2.0.0/AllSidesCrating.zip</url>  
+  <executable>AllSidesCratingSetup.exe</executable>
   <mandatory>false</mandatory>
 </item>
